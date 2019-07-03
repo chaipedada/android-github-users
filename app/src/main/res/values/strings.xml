@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Github Challenge</string>
+    <string name="error_message">Unable to load user data, please try again.</string>
+</resources>
